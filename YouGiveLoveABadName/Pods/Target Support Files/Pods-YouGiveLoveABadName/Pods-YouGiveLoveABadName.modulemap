@@ -1,0 +1,6 @@
+framework module Pods_YouGiveLoveABadName {
+  umbrella header "Pods-YouGiveLoveABadName-umbrella.h"
+
+  export *
+  module * { export * }
+}
